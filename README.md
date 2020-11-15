@@ -79,11 +79,6 @@ insert into `TestData`.`TestData`(admin,date,password,userSetting) values ('admi
 ***/
 ```
 
-#### 2.Refresh layout
-```swift
-adapter.notifyDataSetChange()
-```
-
 <a name="About"></a>
 # About me
 #### <font color="#0000dd"> Work for: </font><br /> 
