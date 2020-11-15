@@ -1,0 +1,45 @@
+{
+  "version": "9",
+  "items": {
+    "0175d073bcb5b3b8cf963000ee9d6948": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar"
+    },
+    "3553c837b3390f66587fdb569d2e7951": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/6ca8bee3d88957eaaaef077c41c908c9940492d8/kotlin-stdlib-common-1.3.72.jar"
+    },
+    "18cde66bd3b7a43050c716ede0e8853f": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.3.72/a44129682a793513f559af4da4ab175c0c31b185/kotlin-stdlib-js-1.3.72.jar",
+      "target": "kotlin/1.3.72"
+    },
+    "a28a4429e888bcd8f356707dedbcd7e9": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-source-map-loader/1.3.72/291c59847ea092350a8d829ad96a89978c0e47a3/kotlin-source-map-loader-1.3.72.jar",
+      "target": "kotlin-source-map-loader/1.3.72"
+    },
+    "f6a3e2c1961b1cd951ab88e498739e3c": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.3.72/92aa1317f68727e77867727c2bd2a2f4460116b2/kotlin-test-common-1.3.72.jar"
+    },
+    "6ebec960065f90477944ccc7bc5b166a": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.3.72/43af036072bee8c338852e253dab220389fd9ed8/kotlin-test-annotations-common-1.3.72.jar"
+    },
+    "389d960671c677a8e9ea8740c28007a9": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.3.72/6d0017e0b0b5792c855a0170d0ed46b5c13463ec/kotlin-test-js-1.3.72.jar",
+      "target": "kotlin-test/1.3.72"
+    },
+    "0bf9aedb6be01b33f607a6451f83a1f4": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.3.72/86d351b4b9b1f851109e36dd0a66c3fc5cf742a7/kotlin-test-js-runner-1.3.72.jar",
+      "target": "kotlin-test-js-runner/1.3.72"
+    },
+    "1af85135367c5c15948af439d68212dc": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.72/86613e1a669a701b0c660bfd2af4f82a7ae11fca/kotlin-reflect-1.3.72.jar"
+    },
+    "d1ab99c475b94d1d9aa4be806ce14b44": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/8032138f12c0180bc4e51fe139d4c52b46db6109/kotlin-stdlib-1.3.72.jar"
+    },
+    "72ac29dee68b63d11710f49a42861308": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+    },
+    "0d2b969e1547b5bfe726d409fb745070": {
+      "src": "/Users/jianzhi.wang/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.46/9a3e63b387e376364211e96827bc27db8d7a92e9/mysql-connector-java-5.1.46.jar"
+    }
+  }
+}

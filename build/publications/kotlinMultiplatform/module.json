@@ -1,0 +1,86 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.jzLibrary",
+    "module": "JzQuickMySql-kotlinMultiplatform",
+    "version": "1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "mkylow4lh5fvzna6grhdqixmpa"
+    }
+  },
+  "variants": [
+    {
+      "name": "js-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../JzQuickMySql-js/1.3/JzQuickMySql-js-1.3.module",
+        "group": "com.jzLibrary",
+        "module": "JzQuickMySql-js",
+        "version": "1.3"
+      }
+    },
+    {
+      "name": "js-runtime",
+      "attributes": {
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../JzQuickMySql-js/1.3/JzQuickMySql-js-1.3.module",
+        "group": "com.jzLibrary",
+        "module": "JzQuickMySql-js",
+        "version": "1.3"
+      }
+    },
+    {
+      "name": "jvm-api",
+      "attributes": {
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../JzQuickMySql-jvm/1.3/JzQuickMySql-jvm-1.3.module",
+        "group": "com.jzLibrary",
+        "module": "JzQuickMySql-jvm",
+        "version": "1.3"
+      }
+    },
+    {
+      "name": "jvm-runtime",
+      "attributes": {
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../JzQuickMySql-jvm/1.3/JzQuickMySql-jvm-1.3.module",
+        "group": "com.jzLibrary",
+        "module": "JzQuickMySql-jvm",
+        "version": "1.3"
+      }
+    },
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "available-at": {
+        "url": "../../JzQuickMySql/1.3/JzQuickMySql-1.3.module",
+        "group": "com.jzLibrary",
+        "module": "JzQuickMySql",
+        "version": "1.3"
+      }
+    }
+  ]
+}

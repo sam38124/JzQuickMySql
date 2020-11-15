@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sample.SampleTestsJVM" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-14T22:37:11" hostname="Jianzhiwangde-MacBook-Pro.local" time="0.027">
+  <properties/>
+  <testcase name="testHello" classname="sample.SampleTestsJVM" time="0.027"/>
+  <system-out><![CDATA[TestData(admin=admin, password=password, userSetting=UserSetting(click=true, date=Sun Nov 15 06:37:11 CST 2020))
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../JzQuickMySql-kotlinMultiplatform/1.3/JzQuickMySql-kotlinMultiplatform-1.3.module",
+    "group": "com.jzLibrary",
+    "module": "JzQuickMySql-kotlinMultiplatform",
+    "version": "1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "mkylow4lh5fvzna6grhdqixmpa"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java",
+          "version": {
+            "requires": "5.1.46"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.3.72"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "JzSqlHelper-metadata-1.3.jar",
+          "url": "JzQuickMySql-1.3.jar",
+          "size": 1258,
+          "sha512": "a14f0d9c321f2138c6b84f12dd4e53eafeeea352c37c63fb97e722e885fbd81cbf4a365f25045a13c59173aaf5aa0d36cb387b7fd88e67dda68f4ee27b4cd3fd",
+          "sha256": "0ca37f04bbc52ed919e67c1fe7e95ed6ef4a4260d4ea33a820aa75ec07a44e8d",
+          "sha1": "bbd970f6740911978059d00343730a986670095d",
+          "md5": "c26ec22b33154d96bd0ccef1e0817741"
+        }
+      ]
+    }
+  ]
+}
